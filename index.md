@@ -4,26 +4,29 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://rhu2xx.github.io/ronghu.jpg" class="floatpic">
 
-Here is **Rong Hu (Ronnie, 胡蓉)**.<br>
+Hi there! My name is **Rong Hu (Ronnie, 胡蓉)**, and I am a PhD student at Hunan University, advised by Professor [Wangdong Yang](https://csee.hnu.edu.cn/people/yangwangdong) and [Kenli Li](https://scholar.google.com/citations?user=mSpHqSUAAAAJ&hl=en&oi=sra). I am also a visiting student at the University of Cologne, collaborating with Professor [Ziyue Li](https://scholar.google.com/citations?user=q5_My2AAAAAJ&hl=en&oi=sra).
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+My research focuses on GPU-accelerated computing, tensor decomposition, and LLM compression to enhance efficiency in large-scale AI systems. I develop scalable algorithms for tensor-based optimization, sparse computations, and deep learning model compression.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you're interested in tensor methods, parallel computing, or LLM compression, feel free to reach out!
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+**<font color="#990000">I am actively seeking a Postdoc position. If you have any information, please contact me. Thank you!</font>**
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
+- Tensor Decomposition
+- Parallel Computing & GPU Acceleration
+- High-Performance Computing (HPC)
+- Large Language Model (LLM) Compression
+- 
+My current research focuses on optimizing large-scale AI models through efficient tensor computation and GPU-accelerated algorithms. I am particularly interested in LLM compression, sparse tensor methods, and scalable parallel computing to enhance the performance and efficiency of deep learning systems. Ultimately, I aim to contribute to the development of high-performance AI solutions that are both computationally efficient and widely accessible.
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+
 
 ---
 
