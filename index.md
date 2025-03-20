@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://rhu2xx.github.io/ronghu.jpg" class="floatpic">
+<!-- <img src="https://rhu2xx.github.io/ronghu.jpg" class="floatpic"> -->
 
 Hi there! My name is **Rong Hu (Ronnie, 胡蓉)**, and I am a PhD student at Hunan University, advised by Professor [Wangdong Yang](https://csee.hnu.edu.cn/people/yangwangdong) and [Kenli Li](https://scholar.google.com/citations?user=mSpHqSUAAAAJ&hl=en&oi=sra). I am also a visiting student at the University of Cologne, collaborating with Professor [Ziyue Li](https://scholar.google.com/citations?user=q5_My2AAAAAJ&hl=en&oi=sra).
 
