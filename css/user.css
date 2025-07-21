@@ -1,0 +1,80 @@
+.archive-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.archive-list .year-group {
+  margin-bottom: 40px;
+}
+.archive-list .year-group .archive-year-header {
+  font-size: 2em;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 25px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #007acc;
+  text-align: left;
+}
+.archive-list .year-group .archive-item {
+  margin-bottom: 20px;
+  margin-left: 30px;
+  padding: 15px;
+  background: #fafafa;
+  border-radius: 8px;
+  border-left: 4px solid #007acc;
+  transition: all 0.3s ease;
+}
+.archive-list .year-group .archive-item:hover {
+  background: #f0f8ff;
+  transform: translateX(5px);
+  box-shadow: 0 2px 10px rgba(0,122,204,0.1);
+}
+.archive-list .year-group .archive-item .archive-title {
+  margin: 0 0 10px 0;
+}
+.archive-list .year-group .archive-item .archive-title a {
+  color: #2c3e50;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: 500;
+  line-height: 1.4;
+}
+.archive-list .year-group .archive-item .archive-title a:hover {
+  color: #007acc;
+}
+.archive-list .year-group .archive-item .archive-tags {
+  margin-top: 12px;
+}
+.archive-list .year-group .archive-item .archive-tags span {
+  font-size: 0.9em;
+  color: #666;
+  margin-right: 8px;
+  font-weight: 500;
+}
+.archive-list .year-group .archive-item .archive-tags .tag-link {
+  background: #e3f2fd;
+  color: #1976d2;
+  padding: 4px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: 500;
+  border: 1px solid #bbdefb;
+  transition: all 0.2s ease;
+}
+.archive-list .year-group .archive-item .archive-tags .tag-link:hover {
+  background: #1976d2;
+  color: #fff;
+  border-color: #1976d2;
+  transform: translateY(-1px);
+}
+.archive-list .no-posts {
+  text-align: center;
+  padding: 60px 20px;
+  color: #666;
+}
+.archive-list .no-posts p {
+  font-size: 1.1em;
+  font-style: italic;
+}
