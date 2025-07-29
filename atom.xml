@@ -24,10 +24,41 @@
     <updated>2025-07-28T22:01:38.912Z</updated>
     
     
+      
+      
+    <summary type="html">&lt;h1 id=&quot;concept-of-transformer&quot;&gt;0. Concept of transformer&lt;/h1&gt;
+&lt;p&gt;A standard transformer architecture contains main blocks, multi-head
+att</summary>
+      
+    
     
     
     
     <category term="Parameter Compression" scheme="http://rhu2xx.github.io/tags/Parameter-Compression/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My First Blog Post</title>
+    <link href="http://rhu2xx.github.io/2024/07/21/first-blog-post/"/>
+    <id>http://rhu2xx.github.io/2024/07/21/first-blog-post/</id>
+    <published>2024-07-20T22:00:00.000Z</published>
+    <updated>2025-07-29T11:48:00.020Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;welcome-to-my-blog&quot;&gt;Welcome to My Blog!&lt;/h2&gt;
+&lt;p&gt;This is my first blog post. Here I’ll share my thoughts on research,
+technology, a</summary>
+      
+    
+    
+    
+    
+    <category term="research" scheme="http://rhu2xx.github.io/tags/research/"/>
+    
+    <category term="thoughts" scheme="http://rhu2xx.github.io/tags/thoughts/"/>
     
   </entry>
   
