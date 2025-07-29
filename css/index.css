@@ -78,6 +78,131 @@
   font-size: 1.1em;
   font-style: italic;
 }
+.homepage-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+.homepage-content .about-content h1,
+.homepage-content .about-content h2,
+.homepage-content .about-content h3,
+.homepage-content .about-content h4,
+.homepage-content .about-content h5,
+.homepage-content .about-content h6 {
+  color: #2c3e50;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.homepage-content .about-content h1 {
+  font-size: 2.2em;
+  font-weight: 600;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 10px;
+}
+.homepage-content .about-content h2 {
+  font-size: 1.8em;
+  font-weight: 500;
+  color: #34495e;
+}
+.homepage-content .about-content h3 {
+  font-size: 1.4em;
+  font-weight: 500;
+}
+.homepage-content .about-content p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+.homepage-content .about-content strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+.homepage-content .about-content ul,
+.homepage-content .about-content ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+.homepage-content .about-content li {
+  margin-bottom: 8px;
+}
+.homepage-content .about-content a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+.homepage-content .about-content a:hover {
+  color: #005a8b;
+  text-decoration: underline;
+}
+.homepage-content .about-content hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 30px 0;
+}
+.academia-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+.academia-content .academia-article {
+  margin-bottom: 40px;
+}
+.academia-content .academia-article h1,
+.academia-content .academia-article h2,
+.academia-content .academia-article h3,
+.academia-content .academia-article h4,
+.academia-content .academia-article h5,
+.academia-content .academia-article h6 {
+  color: #2c3e50;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.academia-content .academia-article h1 {
+  font-size: 2.2em;
+  font-weight: 600;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 10px;
+}
+.academia-content .academia-article h2 {
+  font-size: 1.8em;
+  font-weight: 500;
+  color: #34495e;
+}
+.academia-content .academia-article h3 {
+  font-size: 1.4em;
+  font-weight: 500;
+}
+.academia-content .academia-article p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+.academia-content .academia-article strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+.academia-content .academia-article ul,
+.academia-content .academia-article ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+.academia-content .academia-article li {
+  margin-bottom: 8px;
+}
+.academia-content .academia-article a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+.academia-content .academia-article a:hover {
+  color: #005a8b;
+  text-decoration: underline;
+}
+.academia-content .academia-article hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 30px 0;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
